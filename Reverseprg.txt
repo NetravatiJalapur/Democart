@@ -1,0 +1,41 @@
+
+String revered=" ";
+Scanner sc=new Scanner();
+String str=sc.nextline();
+System.out.println("Enter the String");
+
+
+for(int i=str.length()-1;i<=0;i--)
+{
+    reversed +=str.charAt(i)
+}
+
+System.out.println("Reveresed string is" +reversed);
+
+
+https://github.com/NetravatiJalapur/Democart
+
+https://github.com/NetravatiJalapur/Democart.git
+
+
+
+
+
+implicit wait
+
+driver.manage().timeout().implicitlywait(Duration.ofseconds(10));
+
+Explicit wait
+
+
+
+
+
+
+
+
+
+
+
+
+
